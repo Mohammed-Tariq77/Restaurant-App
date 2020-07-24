@@ -1,0 +1,455 @@
+C:\Users\Ahmed\Desktop\WebApi\WebApi\bin\WebApi.dll.config
+C:\Users\Ahmed\Desktop\WebApi\WebApi\bin\WebApi.dll
+C:\Users\Ahmed\Desktop\WebApi\WebApi\bin\WebApi.pdb
+C:\Users\Ahmed\Desktop\WebApi\WebApi\bin\roslyn\csc.exe
+C:\Users\Ahmed\Desktop\WebApi\WebApi\bin\roslyn\csc.exe.config
+C:\Users\Ahmed\Desktop\WebApi\WebApi\bin\roslyn\csc.rsp
+C:\Users\Ahmed\Desktop\WebApi\WebApi\bin\roslyn\csi.exe
+C:\Users\Ahmed\Desktop\WebApi\WebApi\bin\roslyn\csi.exe.config
+C:\Users\Ahmed\Desktop\WebApi\WebApi\bin\roslyn\csi.rsp
+C:\Users\Ahmed\Desktop\WebApi\WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ahmed\Desktop\WebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ahmed\Desktop\WebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ahmed\Desktop\WebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ahmed\Desktop\WebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ahmed\Desktop\WebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ahmed\Desktop\WebApi\WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ahmed\Desktop\WebApi\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ahmed\Desktop\WebApi\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ahmed\Desktop\WebApi\WebApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ahmed\Desktop\WebApi\WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ahmed\Desktop\WebApi\WebApi\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Ahmed\Desktop\WebApi\WebApi\bin\roslyn\System.AppContext.dll
+C:\Users\Ahmed\Desktop\WebApi\WebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ahmed\Desktop\WebApi\WebApi\bin\roslyn\System.Console.dll
+C:\Users\Ahmed\Desktop\WebApi\WebApi\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ahmed\Desktop\WebApi\WebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ahmed\Desktop\WebApi\WebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ahmed\Desktop\WebApi\WebApi\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Ahmed\Desktop\WebApi\WebApi\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ahmed\Desktop\WebApi\WebApi\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Ahmed\Desktop\WebApi\WebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ahmed\Desktop\WebApi\WebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ahmed\Desktop\WebApi\WebApi\bin\roslyn\System.Net.Http.dll
+C:\Users\Ahmed\Desktop\WebApi\WebApi\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Ahmed\Desktop\WebApi\WebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ahmed\Desktop\WebApi\WebApi\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Ahmed\Desktop\WebApi\WebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ahmed\Desktop\WebApi\WebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ahmed\Desktop\WebApi\WebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ahmed\Desktop\WebApi\WebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ahmed\Desktop\WebApi\WebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ahmed\Desktop\WebApi\WebApi\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Ahmed\Desktop\WebApi\WebApi\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ahmed\Desktop\WebApi\WebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ahmed\Desktop\WebApi\WebApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ahmed\Desktop\WebApi\WebApi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ahmed\Desktop\WebApi\WebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ahmed\Desktop\WebApi\WebApi\bin\roslyn\vbc.exe
+C:\Users\Ahmed\Desktop\WebApi\WebApi\bin\roslyn\vbc.exe.config
+C:\Users\Ahmed\Desktop\WebApi\WebApi\bin\roslyn\vbc.rsp
+C:\Users\Ahmed\Desktop\WebApi\WebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ahmed\Desktop\WebApi\WebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ahmed\Desktop\WebApi\WebApi\bin\Antlr3.Runtime.dll
+C:\Users\Ahmed\Desktop\WebApi\WebApi\bin\EntityFramework.dll
+C:\Users\Ahmed\Desktop\WebApi\WebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\Ahmed\Desktop\WebApi\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ahmed\Desktop\WebApi\WebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ahmed\Desktop\WebApi\WebApi\bin\Newtonsoft.Json.dll
+C:\Users\Ahmed\Desktop\WebApi\WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\Ahmed\Desktop\WebApi\WebApi\bin\System.Web.Helpers.dll
+C:\Users\Ahmed\Desktop\WebApi\WebApi\bin\System.Web.Http.dll
+C:\Users\Ahmed\Desktop\WebApi\WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\Ahmed\Desktop\WebApi\WebApi\bin\System.Web.Mvc.dll
+C:\Users\Ahmed\Desktop\WebApi\WebApi\bin\System.Web.Optimization.dll
+C:\Users\Ahmed\Desktop\WebApi\WebApi\bin\System.Web.Razor.dll
+C:\Users\Ahmed\Desktop\WebApi\WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ahmed\Desktop\WebApi\WebApi\bin\System.Web.WebPages.dll
+C:\Users\Ahmed\Desktop\WebApi\WebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ahmed\Desktop\WebApi\WebApi\bin\WebGrease.dll
+C:\Users\Ahmed\Desktop\WebApi\WebApi\bin\EntityFramework.xml
+C:\Users\Ahmed\Desktop\WebApi\WebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\Ahmed\Desktop\WebApi\WebApi\bin\Newtonsoft.Json.xml
+C:\Users\Ahmed\Desktop\WebApi\WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\Ahmed\Desktop\WebApi\WebApi\bin\System.Web.Helpers.xml
+C:\Users\Ahmed\Desktop\WebApi\WebApi\bin\System.Web.Http.xml
+C:\Users\Ahmed\Desktop\WebApi\WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\Ahmed\Desktop\WebApi\WebApi\bin\System.Web.Mvc.xml
+C:\Users\Ahmed\Desktop\WebApi\WebApi\bin\System.Web.Optimization.xml
+C:\Users\Ahmed\Desktop\WebApi\WebApi\bin\System.Web.Razor.xml
+C:\Users\Ahmed\Desktop\WebApi\WebApi\bin\System.Web.WebPages.xml
+C:\Users\Ahmed\Desktop\WebApi\WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ahmed\Desktop\WebApi\WebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ahmed\Desktop\WebApi\WebApi\bin\Antlr3.Runtime.pdb
+C:\Users\Ahmed\Desktop\WebApi\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ahmed\Desktop\WebApi\WebApi\obj\Debug\WebApi.csprojAssemblyReference.cache
+C:\Users\Ahmed\Desktop\WebApi\WebApi\obj\Debug\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\Desktop\WebApi\WebApi\obj\Debug\WebApi.csproj.CopyComplete
+C:\Users\Ahmed\Desktop\WebApi\WebApi\obj\Debug\WebApi.dll
+C:\Users\Ahmed\Desktop\WebApi\WebApi\obj\Debug\WebApi.pdb
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\WebApi.dll.config
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\WebApi.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\WebApi.pdb
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\roslyn\csc.exe
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\roslyn\csc.exe.config
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\roslyn\csc.rsp
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\roslyn\csi.exe
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\roslyn\csi.exe.config
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\roslyn\csi.rsp
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\roslyn\System.AppContext.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\roslyn\System.Console.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\roslyn\System.Net.Http.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\roslyn\vbc.exe
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\roslyn\vbc.exe.config
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\roslyn\vbc.rsp
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\Antlr3.Runtime.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\EntityFramework.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\Newtonsoft.Json.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\System.Web.Helpers.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\System.Web.Http.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\System.Web.Mvc.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\System.Web.Optimization.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\System.Web.Razor.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\System.Web.WebPages.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\WebGrease.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\EntityFramework.xml
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\Newtonsoft.Json.xml
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\System.Web.Helpers.xml
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\System.Web.Http.xml
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\System.Web.Mvc.xml
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\System.Web.Optimization.xml
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\System.Web.Razor.xml
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\System.Web.WebPages.xml
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\Antlr3.Runtime.pdb
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\obj\Debug\WebApi.csprojAssemblyReference.cache
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\obj\Debug\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\obj\Debug\WebApi.csproj.CopyComplete
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\obj\Debug\WebApi.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\obj\Debug\WebApi.pdb
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\System.Web.Cors.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\System.Web.Http.Cors.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\System.Web.Http.Cors.xml
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\Microsoft.AspNetCore.Authentication.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\Microsoft.AspNetCore.Identity.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\Microsoft.Extensions.Logging.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\Microsoft.Extensions.Options.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\Microsoft.Extensions.WebEncoders.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\Microsoft.Owin.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\Microsoft.Owin.Security.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\Microsoft.Win32.Registry.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\Owin.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\System.Buffers.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\System.ComponentModel.Annotations.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\System.Memory.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\System.Numerics.Vectors.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\System.Security.AccessControl.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\System.Security.Cryptography.Xml.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\System.Security.Permissions.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\System.Security.Principal.Windows.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\System.Text.Encodings.Web.dll
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\Microsoft.AspNetCore.Authentication.xml
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\Microsoft.AspNetCore.Authentication.Cookies.xml
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\Microsoft.AspNetCore.Cryptography.KeyDerivation.xml
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\Microsoft.AspNetCore.DataProtection.xml
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\Microsoft.AspNetCore.Identity.xml
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\Microsoft.Extensions.Identity.Core.xml
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\Microsoft.Extensions.Logging.xml
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\Microsoft.Extensions.Options.xml
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\Microsoft.Extensions.WebEncoders.xml
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\Microsoft.Owin.xml
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\Microsoft.Owin.Security.xml
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\System.Buffers.xml
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\System.Memory.xml
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\System.Numerics.Vectors.xml
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ahmed\Desktop\Project\WebApi\WebApi\bin\System.Text.Encodings.Web.xml
+C:\MY LAB\Project\WebApi\WebApi\bin\WebApi.dll.config
+C:\MY LAB\Project\WebApi\WebApi\bin\WebApi.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\WebApi.pdb
+C:\MY LAB\Project\WebApi\WebApi\bin\roslyn\csc.exe
+C:\MY LAB\Project\WebApi\WebApi\bin\roslyn\csc.exe.config
+C:\MY LAB\Project\WebApi\WebApi\bin\roslyn\csc.rsp
+C:\MY LAB\Project\WebApi\WebApi\bin\roslyn\csi.exe
+C:\MY LAB\Project\WebApi\WebApi\bin\roslyn\csi.exe.config
+C:\MY LAB\Project\WebApi\WebApi\bin\roslyn\csi.rsp
+C:\MY LAB\Project\WebApi\WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\MY LAB\Project\WebApi\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\MY LAB\Project\WebApi\WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\MY LAB\Project\WebApi\WebApi\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\roslyn\System.AppContext.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\roslyn\System.Console.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\roslyn\System.Globalization.Calendars.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\roslyn\System.IO.Compression.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\roslyn\System.Net.Http.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\roslyn\System.Net.Sockets.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\roslyn\System.ValueTuple.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\roslyn\System.Xml.XPath.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\roslyn\vbc.exe
+C:\MY LAB\Project\WebApi\WebApi\bin\roslyn\vbc.exe.config
+C:\MY LAB\Project\WebApi\WebApi\bin\roslyn\vbc.rsp
+C:\MY LAB\Project\WebApi\WebApi\bin\roslyn\VBCSCompiler.exe
+C:\MY LAB\Project\WebApi\WebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\MY LAB\Project\WebApi\WebApi\bin\Antlr3.Runtime.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\EntityFramework.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\EntityFramework.SqlServer.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\Microsoft.AspNetCore.Authentication.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\Microsoft.AspNetCore.DataProtection.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\Microsoft.AspNetCore.Http.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\Microsoft.AspNetCore.Identity.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\Microsoft.Extensions.Configuration.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\Microsoft.Extensions.Identity.Core.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\Microsoft.Extensions.Logging.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\Microsoft.Extensions.ObjectPool.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\Microsoft.Extensions.Options.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\Microsoft.Extensions.Primitives.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\Microsoft.Extensions.WebEncoders.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\Microsoft.Net.Http.Headers.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\Microsoft.Owin.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\Microsoft.Owin.Security.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\Microsoft.Win32.Registry.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\Newtonsoft.Json.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\Owin.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\System.Buffers.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\System.ComponentModel.Annotations.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\System.Memory.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\System.Net.Http.Formatting.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\System.Numerics.Vectors.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\System.Security.AccessControl.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\System.Security.Cryptography.Xml.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\System.Security.Permissions.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\System.Security.Principal.Windows.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\System.Text.Encodings.Web.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\System.Web.Cors.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\System.Web.Helpers.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\System.Web.Http.Cors.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\System.Web.Http.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\System.Web.Http.WebHost.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\System.Web.Mvc.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\System.Web.Optimization.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\System.Web.Razor.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\System.Web.WebPages.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\System.Web.WebPages.Razor.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\WebGrease.dll
+C:\MY LAB\Project\WebApi\WebApi\bin\EntityFramework.xml
+C:\MY LAB\Project\WebApi\WebApi\bin\EntityFramework.SqlServer.xml
+C:\MY LAB\Project\WebApi\WebApi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\MY LAB\Project\WebApi\WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\MY LAB\Project\WebApi\WebApi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\MY LAB\Project\WebApi\WebApi\bin\Microsoft.AspNetCore.Authentication.xml
+C:\MY LAB\Project\WebApi\WebApi\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\MY LAB\Project\WebApi\WebApi\bin\Microsoft.AspNetCore.Authentication.Cookies.xml
+C:\MY LAB\Project\WebApi\WebApi\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\MY LAB\Project\WebApi\WebApi\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\MY LAB\Project\WebApi\WebApi\bin\Microsoft.AspNetCore.Cryptography.KeyDerivation.xml
+C:\MY LAB\Project\WebApi\WebApi\bin\Microsoft.AspNetCore.DataProtection.xml
+C:\MY LAB\Project\WebApi\WebApi\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\MY LAB\Project\WebApi\WebApi\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\MY LAB\Project\WebApi\WebApi\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\MY LAB\Project\WebApi\WebApi\bin\Microsoft.AspNetCore.Http.xml
+C:\MY LAB\Project\WebApi\WebApi\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\MY LAB\Project\WebApi\WebApi\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\MY LAB\Project\WebApi\WebApi\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\MY LAB\Project\WebApi\WebApi\bin\Microsoft.AspNetCore.Identity.xml
+C:\MY LAB\Project\WebApi\WebApi\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\MY LAB\Project\WebApi\WebApi\bin\Microsoft.Extensions.Configuration.xml
+C:\MY LAB\Project\WebApi\WebApi\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\MY LAB\Project\WebApi\WebApi\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\MY LAB\Project\WebApi\WebApi\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\MY LAB\Project\WebApi\WebApi\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\MY LAB\Project\WebApi\WebApi\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\MY LAB\Project\WebApi\WebApi\bin\Microsoft.Extensions.Identity.Core.xml
+C:\MY LAB\Project\WebApi\WebApi\bin\Microsoft.Extensions.Logging.xml
+C:\MY LAB\Project\WebApi\WebApi\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\MY LAB\Project\WebApi\WebApi\bin\Microsoft.Extensions.ObjectPool.xml
+C:\MY LAB\Project\WebApi\WebApi\bin\Microsoft.Extensions.Options.xml
+C:\MY LAB\Project\WebApi\WebApi\bin\Microsoft.Extensions.Primitives.xml
+C:\MY LAB\Project\WebApi\WebApi\bin\Microsoft.Extensions.WebEncoders.xml
+C:\MY LAB\Project\WebApi\WebApi\bin\Microsoft.Net.Http.Headers.xml
+C:\MY LAB\Project\WebApi\WebApi\bin\Microsoft.Owin.xml
+C:\MY LAB\Project\WebApi\WebApi\bin\Microsoft.Owin.Security.xml
+C:\MY LAB\Project\WebApi\WebApi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\MY LAB\Project\WebApi\WebApi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\MY LAB\Project\WebApi\WebApi\bin\System.Buffers.xml
+C:\MY LAB\Project\WebApi\WebApi\bin\System.Memory.xml
+C:\MY LAB\Project\WebApi\WebApi\bin\System.Numerics.Vectors.xml
+C:\MY LAB\Project\WebApi\WebApi\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\MY LAB\Project\WebApi\WebApi\bin\System.Text.Encodings.Web.xml
+C:\MY LAB\Project\WebApi\WebApi\bin\System.Web.Http.Cors.xml
+C:\MY LAB\Project\WebApi\WebApi\bin\Newtonsoft.Json.xml
+C:\MY LAB\Project\WebApi\WebApi\bin\System.Net.Http.Formatting.xml
+C:\MY LAB\Project\WebApi\WebApi\bin\System.Web.Helpers.xml
+C:\MY LAB\Project\WebApi\WebApi\bin\System.Web.Http.xml
+C:\MY LAB\Project\WebApi\WebApi\bin\System.Web.Http.WebHost.xml
+C:\MY LAB\Project\WebApi\WebApi\bin\System.Web.Mvc.xml
+C:\MY LAB\Project\WebApi\WebApi\bin\System.Web.Optimization.xml
+C:\MY LAB\Project\WebApi\WebApi\bin\System.Web.Razor.xml
+C:\MY LAB\Project\WebApi\WebApi\bin\System.Web.WebPages.xml
+C:\MY LAB\Project\WebApi\WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\MY LAB\Project\WebApi\WebApi\bin\System.Web.WebPages.Razor.xml
+C:\MY LAB\Project\WebApi\WebApi\bin\Antlr3.Runtime.pdb
+C:\MY LAB\Project\WebApi\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\MY LAB\Project\WebApi\WebApi\obj\Debug\WebApi.csprojAssemblyReference.cache
+C:\MY LAB\Project\WebApi\WebApi\obj\Debug\WebApi.csproj.CoreCompileInputs.cache
+C:\MY LAB\Project\WebApi\WebApi\obj\Debug\WebApi.csproj.CopyComplete
+C:\MY LAB\Project\WebApi\WebApi\obj\Debug\WebApi.dll
+C:\MY LAB\Project\WebApi\WebApi\obj\Debug\WebApi.pdb
